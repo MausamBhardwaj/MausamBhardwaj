@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MausamBhardwaj
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5/CSS
-- 💞️ I’m looking to collaborate on Javascript and PHP for backend.
+- 🌱 I’ have year of experience in Digital Marketing.
+- 💞️ I’m looking to collaborate on PHP for backend.
 - 📫 How to reach me mausambhardwaj8@gmail.com
 
 <!---
